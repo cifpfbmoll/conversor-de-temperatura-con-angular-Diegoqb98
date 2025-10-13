@@ -4,8 +4,6 @@
 
 ![Mockup del conversor](./mockup.png)
 
-Nota: guarda la imagen del mockup adjunta en `docs/mockup.png` para que se renderice en esta guía. Muéstrala al principio para motivar a los alumnos.
-
 ---
 
 ## 1) Angular y el proyecto
