@@ -119,7 +119,7 @@ conversor-temperatura/
 
 ## 👨‍💻 Autor
 
-**Diego Quintana**
+**Diego Quiroga**
 - GitHub: [@Diegoqb98](https://github.com/Diegoqb98)
 
 ## 📄 Licencia
@@ -129,3 +129,4 @@ Este proyecto es de código abierto y está disponible para uso educativo.
 ---
 
 Generado con [Angular CLI](https://github.com/angular/angular-cli) version 18.2.21
+
