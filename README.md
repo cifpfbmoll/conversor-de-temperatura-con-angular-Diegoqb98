@@ -5,24 +5,9 @@ Aplicación web para convertir temperaturas entre diferentes escalas, desarrolla
 ## 📸 Capturas de Pantalla
 
 ### Vista Principal
-![Vista Principal](docs/screenshots/vista-principal.png)
+![Vista Principal](Captura/Captura.png)
 *Interfaz principal del conversor de temperatura*
 
-### Conversión Celsius a Fahrenheit
-![Celsius a Fahrenheit](docs/screenshots/celsius-fahrenheit.png)
-*Ejemplo de conversión de 25°C a 77°F*
-
-### Conversión Fahrenheit a Celsius
-![Fahrenheit a Celsius](docs/screenshots/fahrenheit-celsius.png)
-*Ejemplo de conversión de 100°F a 37.78°C*
-
-### Validación de Errores
-![Validación](docs/screenshots/validacion.png)
-*Sistema de validación de campos*
-
-### Vista Responsive
-![Responsive](docs/screenshots/responsive.png)
-*Diseño adaptable a diferentes dispositivos*
 
 ## 🎯 Características
 
@@ -129,4 +114,3 @@ Este proyecto es de código abierto y está disponible para uso educativo.
 ---
 
 Generado con [Angular CLI](https://github.com/angular/angular-cli) version 18.2.21
-
